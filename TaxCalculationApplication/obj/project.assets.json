@@ -1167,14 +1167,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationApplication/TaxCalculationApplication.csproj",
+      "projectUniqueName": "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationApplication/TaxCalculationApplication.csproj",
       "projectName": "TaxCalculationApplication",
-      "projectPath": "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationApplication/TaxCalculationApplication.csproj",
+      "projectPath": "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationApplication/TaxCalculationApplication.csproj",
       "packagesPath": "/Users/saranyaramam/.nuget/packages/",
-      "outputPath": "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationApplication/obj/",
+      "outputPath": "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationApplication/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/saranyaramam/.nuget/NuGet/NuGet.Config"
+        "/Users/saranyaramam/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

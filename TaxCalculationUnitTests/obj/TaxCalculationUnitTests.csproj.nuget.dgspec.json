@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationUnitTests/TaxCalculationUnitTests.csproj": {}
+    "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationUnitTests/TaxCalculationUnitTests.csproj": {}
   },
   "projects": {
-    "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationApplication/TaxCalculationApplication.csproj": {
+    "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationApplication/TaxCalculationApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationApplication/TaxCalculationApplication.csproj",
+        "projectUniqueName": "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationApplication/TaxCalculationApplication.csproj",
         "projectName": "TaxCalculationApplication",
-        "projectPath": "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationApplication/TaxCalculationApplication.csproj",
+        "projectPath": "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationApplication/TaxCalculationApplication.csproj",
         "packagesPath": "/Users/saranyaramam/.nuget/packages/",
-        "outputPath": "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationApplication/obj/",
+        "outputPath": "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationApplication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/saranyaramam/.config/NuGet/NuGet.Config"
@@ -38,6 +38,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[6.0.1, )"
@@ -62,14 +66,14 @@
         }
       }
     },
-    "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationUnitTests/TaxCalculationUnitTests.csproj": {
+    "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationUnitTests/TaxCalculationUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationUnitTests/TaxCalculationUnitTests.csproj",
+        "projectUniqueName": "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationUnitTests/TaxCalculationUnitTests.csproj",
         "projectName": "TaxCalculationUnitTests",
-        "projectPath": "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationUnitTests/TaxCalculationUnitTests.csproj",
+        "projectPath": "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationUnitTests/TaxCalculationUnitTests.csproj",
         "packagesPath": "/Users/saranyaramam/.nuget/packages/",
-        "outputPath": "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationUnitTests/obj/",
+        "outputPath": "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationUnitTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/saranyaramam/.config/NuGet/NuGet.Config"
@@ -84,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationApplication/TaxCalculationApplication.csproj": {
-                "projectPath": "/Users/saranyaramam/Projects/CheckOutApplication/TaxCalculationApplication/TaxCalculationApplication.csproj"
+              "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationApplication/TaxCalculationApplication.csproj": {
+                "projectPath": "/Users/saranyaramam/Projects/TaxCalculatorApplication/TaxCalculationApplication/TaxCalculationApplication.csproj"
               }
             }
           }

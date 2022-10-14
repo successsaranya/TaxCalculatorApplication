@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{638DB632-6215-4E83-AA75-67706866E475}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaxCalculationApplication/TaxCalculatorService.cs">
+    <Files>
+      <File FileName="TaxCalculationApplication/ITaxCalculationService.cs" Line="1" Column="1" />
+      <File FileName="TaxCalculationApplication/TaxCalculatorService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CheckOutApplication" expanded="True">
+            <Node name="TaxCalculationApplication" expanded="True">
+              <Node name="TaxCalculatorService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TaxCalculationApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
